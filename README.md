@@ -41,23 +41,6 @@ Actively seeking a **DevOps / DevOps Analyst** role.
 
 ---
 
-## 🏢 Practical Experience
-**DevOps Intern – ComedKares Pvt. Ltd., Belagavi**  
-*Oct 2023 – Nov 2023*
-- Implemented CI/CD pipelines using Jenkins and Docker
-- Used Terraform and Ansible for infrastructure automation
-- Configured Prometheus and Grafana for basic monitoring
-- Learned DevOps best practices through hands-on collaboration
-
----
-
-## 📜 Certifications
-- Programming in Python and C++ – LinkedIn Learning (2024)
-- Docker Fundamentals – LinkedIn Learning (2024)
-- 6-Month DevOps Course – Simplilearn (2025)
-
----
-
 ## 📫 Connect
 - GitHub: https://github.com/Sagarrrsh
 - LinkedIn: https://linkedin.com/in/sagar-s-h-212914249
