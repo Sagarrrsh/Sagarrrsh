@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi 👋 I'm Sagar
 
-<!--
-**Sagarrrsh/Sagarrrsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring DevOps / Cloud Engineer  
+🎓 Electronics & Communication Engineering Graduate  
+🐧 Linux | AWS | Terraform | Jenkins | Docker | Kubernetes  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Summary
+Aspiring DevOps Engineer with hands-on experience in **AWS, Terraform, CI/CD pipelines, and Linux**.  
+Built and deployed real-world cloud infrastructure and automation projects focused on **scalability, security, and reliability**.  
+Actively seeking a **DevOps / DevOps Analyst** role.
+
+---
+
+## 🛠 Skills
+- **DevOps & Automation:** Docker, Kubernetes, Terraform, Ansible, Jenkins, CI/CD  
+- **Cloud:** AWS (EC2, IAM, S3, CloudFront, EKS – basics)  
+- **Monitoring:** Prometheus, Grafana  
+- **Programming:** Python, C++  
+- **Databases:** MySQL  
+- **Version Control:** Git, GitHub  
+- **OS:** Linux (Ubuntu)  
+- **Concepts:** Infrastructure as Code (IaC), Cloud Deployment  
+
+---
+
+## 📌 Projects
+
+### 🔹 Two-Tier AWS Infrastructure (Terraform)
+- Built AWS infrastructure using **Terraform (IaC)**
+- Used EC2, ALB, Auto Scaling, VPC, and Multi-AZ setup
+- Implemented IAM security, SSL/TLS, and VPC isolation
+- Improved performance using Route 53, CloudFront, and S3
+
+### 🔹 Scrapzee – Three-Tier Web Application
+- Built a 3-tier app using **Python (Flask/Django) and MySQL**
+- Containerized the application using **Docker**
+- Deployed on **AWS EC2**
+- Implemented **Jenkins CI/CD pipeline** for automated builds and deployments
+
+---
+
+## 🏢 Practical Experience
+**DevOps Intern – ComedKares Pvt. Ltd., Belagavi**  
+*Oct 2023 – Nov 2023*
+- Implemented CI/CD pipelines using Jenkins and Docker
+- Used Terraform and Ansible for infrastructure automation
+- Configured Prometheus and Grafana for basic monitoring
+- Learned DevOps best practices through hands-on collaboration
+
+---
+
+## 📜 Certifications
+- Programming in Python and C++ – LinkedIn Learning (2024)
+- Docker Fundamentals – LinkedIn Learning (2024)
+- 6-Month DevOps Course – Simplilearn (2025)
+
+---
+
+## 📫 Connect
+- GitHub: https://github.com/Sagarrrsh
+- LinkedIn: https://linkedin.com/in/sagar-s-h-212914249
+- Email : sagarsh1003@gmail.com
