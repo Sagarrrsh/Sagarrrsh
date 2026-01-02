@@ -25,22 +25,6 @@ Actively seeking a **DevOps / DevOps Analyst** role.
 
 ---
 
-## 📌 Projects
-
-### 🔹 Two-Tier AWS Infrastructure (Terraform)
-- Built AWS infrastructure using **Terraform (IaC)**
-- Used EC2, ALB, Auto Scaling, VPC, and Multi-AZ setup
-- Implemented IAM security, SSL/TLS, and VPC isolation
-- Improved performance using Route 53, CloudFront, and S3
-
-### 🔹 Scrapzee – Three-Tier Web Application
-- Built a 3-tier app using **Python (Flask/Django) and MySQL**
-- Containerized the application using **Docker**
-- Deployed on **AWS EC2**
-- Implemented **Jenkins CI/CD pipeline** for automated builds and deployments
-
----
-
 ## 📫 Connect
 - GitHub: https://github.com/Sagarrrsh
 - LinkedIn: https://linkedin.com/in/sagar-s-h-212914249
