@@ -14,7 +14,7 @@ Actively seeking a **DevOps / DevOps Analyst** role.
 ---
 
 ## 🛠 Skills
-- **DevOps & Automation:** Docker, Kubernetes, Terraform, Ansible, Jenkins, CI/CD  
+- **DevOps & Automation:** Docker, Kubernetes, Terraform, Ansible, Jenkins, CI/CD  , ArgoCD
 - **Cloud:** AWS (EC2, IAM, S3, CloudFront, EKS – basics)  
 - **Monitoring:** Prometheus, Grafana  
 - **Programming:** Python, C++  
