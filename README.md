@@ -7,9 +7,9 @@
 ---
 
 ## 💼 Summary
-Aspiring DevOps Engineer with hands-on experience in **AWS, Terraform, CI/CD pipelines, and Linux**.  
-Built and deployed real-world cloud infrastructure and automation projects focused on **scalability, security, and reliability**.  
-Actively seeking a **DevOps / DevOps Analyst** role.
+**Aspiring DevOps Engineer** with hands-on experience in AWS, Kubernetes-based container orchestration, Docker, Terraform, CI/CD pipelines, and Linux.
+Experienced in designing, building, and deploying **containerized and cloud-native applications**, leveraging **infrastructure as code** and **automated pipelines** with a strong emphasis on **scalability, reliability**, and **security**.
+Actively seeking opportunities as a **DevOps / DevOps Analyst**.
 
 ---
 
