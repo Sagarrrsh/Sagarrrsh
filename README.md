@@ -7,9 +7,7 @@
 ---
 
 ## 💼 Summary
-**Aspiring DevOps Engineer** with hands-on experience in AWS, Kubernetes-based container orchestration, Docker, Terraform, CI/CD pipelines, and Linux.
-Hands on experience in designing, building, and deploying **containerized and cloud-native applications**, leveraging **infrastructure as code** and **automated pipelines** with a strong emphasis on **scalability, reliability**, and **security**.
-Actively seeking opportunities as a **DevOps / DevOps Analyst**.
+**Aspiring DevOps Engineer** with dedicated to building resilient and efficient technical ecosystems. My approach centers on leveraging automation, continuous integration, and cloud-native practices to streamline infrastructure deployment and optimize system performance. I excel at diagnosing complex issues, managing containerized environments, and fostering collaborative workflows to ensure operational stability and seamless delivery.
 
 ---
 
