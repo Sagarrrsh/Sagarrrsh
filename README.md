@@ -3,7 +3,7 @@
 # Hi, I'm Sagar  
 ### Aspiring DevOps / Cloud Engineer • Electronics & Communication Engineering Graduate
 
-<img src="https://skillicons.dev/icons?i=linux,aws,terraform,jenkins,docker,kubernetes,ansible,argo,githubactions,prometheus,grafana,python,cpp,mysql,git,github" height="48" />
+<img src="https://skillicons.dev/icons?i=linux,aws,terraform,jenkins,docker,kubernetes,ansible,argo,githubactions,prometheus,grafana,python,cpp,mysql,git,github" height="100" />
 
 </div>
 
