@@ -1,9 +1,14 @@
 <div align="center">
 
-# Hi, I'm Sagar  
+# SAGAR S H
+
 ### Aspiring DevOps / Cloud Engineer • Electronics & Communication Engineering Graduate
 
-<img src="https://skillicons.dev/icons?i=linux,aws,terraform,jenkins,docker,kubernetes,ansible,argo,githubactions,prometheus,grafana,python,cpp,mysql,git,github" height="100" />
+<img src="https://skillicons.dev/icons?i=linux,aws,terraform,jenkins,docker,kubernetes,ansible,argo" height="80" />
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=githubactions,prometheus,grafana,python,cpp,mysql,git,github" height="80" />
 
 </div>
 
@@ -20,16 +25,16 @@ Aspiring DevOps / Cloud Engineer focused on automation, cloud infrastructure, co
 
 <div align="center">
   <a href="https://github.com/Sagarrrsh">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="32" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="34" />
   </a>
   <a href="https://linkedin.com/in/sagar-s-h-212914249">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="34" />
   </a>
   <a href="mailto:sagarsh1003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="34" />
   </a>
   <a href="https://hub.docker.com/repositories/sagar1003">
-    <img src="https://img.shields.io/badge/Docker%20Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="32" />
+    <img src="https://img.shields.io/badge/Docker%20Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="34" />
   </a>
 </div>
 
