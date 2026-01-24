@@ -6,12 +6,12 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=linux" height="28" />
-<img src="https://skillicons.dev/icons?i=aws" height="28" />
-<img src="https://skillicons.dev/icons?i=terraform" height="28" />
-<img src="https://skillicons.dev/icons?i=jenkins" height="28" />
-<img src="https://skillicons.dev/icons?i=docker" height="28" />
-<img src="https://skillicons.dev/icons?i=kubernetes" height="28" />
+<img src="https://skillicons.dev/icons?i=linux" height="40" />
+<img src="https://skillicons.dev/icons?i=aws" height="40" />
+<img src="https://skillicons.dev/icons?i=terraform" height="40" />
+<img src="https://skillicons.dev/icons?i=jenkins" height="40" />
+<img src="https://skillicons.dev/icons?i=docker" height="40" />
+<img src="https://skillicons.dev/icons?i=kubernetes" height="40" />
 
 </div>
 
@@ -25,12 +25,12 @@ Aspiring DevOps / Cloud Engineer focused on automation, cloud infrastructure, co
 
 ## Technical Skills
 
-**DevOps & Automation:** Docker, Kubernetes, Terraform, Ansible, Jenkins, ArgoCD, CI/CD  
-**Cloud & Infrastructure:** AWS (EC2, S3, IAM, EKS), Linux, Networking  
-**Monitoring:** Prometheus, Grafana  
-**Programming:** Python, C++  
-**Database:** MySQL  
-**Version Control:** Git, GitHub  
+🚀 **DevOps & Automation:** Docker, Kubernetes, Terraform, Ansible, Jenkins, ArgoCD, CI/CD  
+☁️ **Cloud & Infrastructure:** AWS (EC2, S3, IAM, EKS), Linux, Networking  
+📈 **Monitoring:** Prometheus, Grafana  
+💻 **Programming:** Python, C++  
+🗄️ **Database:** MySQL  
+🔧 **Version Control:** Git, GitHub  
 
 ---
 
@@ -39,16 +39,16 @@ Aspiring DevOps / Cloud Engineer focused on automation, cloud infrastructure, co
 <div align="center">
 
 <a href="https://github.com/Sagarrrsh">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30" />
 </a>
 <a href="https://linkedin.com/in/sagar-s-h-212914249">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
 </a>
 <a href="mailto:sagarsh1003@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
 </a>
 <a href="https://hub.docker.com/repositories/sagar1003">
-  <img src="https://img.shields.io/badge/Docker%20Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Docker%20Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30" />
 </a>
 
 </div>
