@@ -35,11 +35,7 @@
 
 ## 💼 About Me
 
-**Aspiring DevOps Engineer** passionate about building resilient and efficient technical ecosystems through automation and cloud-native practices. 
-
-My approach centers on leveraging continuous integration, infrastructure as code, and containerization to streamline deployment pipelines and optimize system performance. 
-
-I thrive on diagnosing complex infrastructure challenges, orchestrating containerized environments, and fostering collaborative DevOps workflows to ensure operational excellence and seamless delivery.
+**Aspiring DevOps Engineer** with dedicated to building resilient and efficient technical ecosystems. My approach centers on leveraging automation, continuous integration, and cloud-native practices to streamline infrastructure deployment and optimize system performance. I excel at diagnosing complex issues, managing containerized environments, and fostering collaborative workflows to ensure operational stability and seamless delivery.
 
 <br>
 
