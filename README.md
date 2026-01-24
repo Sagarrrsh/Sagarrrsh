@@ -2,10 +2,22 @@
 ### Aspiring DevOps / Cloud Engineer • Electronics & Communication Engineering Graduate
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,aws,terraform,jenkins,docker,kubernetes,ansible,cpp&perline=7" height="70" />
- 
+  <img src="https://skillicons.dev/icons?i=linux" height="70" />
+  <img src="https://skillicons.dev/icons?i=aws" height="70" />
+  <img src="https://skillicons.dev/icons?i=terraform" height="70" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="70" />
+  <img src="https://skillicons.dev/icons?i=docker" height="70" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="70" />
+  <img src="https://skillicons.dev/icons?i=ansible" height="70" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="70" />
   <br>
-  <img src="https://skillicons.dev/icons?i=python,githubactions,prometheus,grafana,mysql,git,github&perline=7" height="70" />
+  <img src="https://skillicons.dev/icons?i=python" height="70" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="70" />
+  <img src="https://skillicons.dev/icons?i=prometheus" height="70" />
+  <img src="https://skillicons.dev/icons?i=grafana" height="70" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="70" />
+  <img src="https://skillicons.dev/icons?i=git" height="70" />
+  <img src="https://skillicons.dev/icons?i=github" height="70" />
 </div>
 
 ## About Me
