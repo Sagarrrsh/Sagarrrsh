@@ -4,8 +4,6 @@
 
 ### Aspiring DevOps / Cloud Engineer • Electronics & Communication Engineering Graduate
 
-<br>
-
 <img src="https://skillicons.dev/icons?i=linux" height="70" />
 <img src="https://skillicons.dev/icons?i=aws" height="70" />
 <img src="https://skillicons.dev/icons?i=terraform" height="70" />
@@ -14,9 +12,7 @@
 <img src="https://skillicons.dev/icons?i=kubernetes" height="70" />
 <img src="https://skillicons.dev/icons?i=ansible" height="70" />
 <img src="https://skillicons.dev/icons?i=cpp" height="70" />
-
 <br>
-
 <img src="https://skillicons.dev/icons?i=python" height="70" />
 <img src="https://skillicons.dev/icons?i=githubactions" height="70" />
 <img src="https://skillicons.dev/icons?i=prometheus" height="70" />
@@ -27,47 +23,39 @@
 
 </div>
 
-<br>
-
 ---
-
-<br>
 
 ## 💼 About Me
 
-**Aspiring DevOps Engineer** with dedicated to building resilient and efficient technical ecosystems. My approach centers on leveraging automation, continuous integration, and cloud-native practices to streamline infrastructure deployment and optimize system performance. I excel at diagnosing complex issues, managing containerized environments, and fostering collaborative workflows to ensure operational stability and seamless delivery.
+**Aspiring DevOps Engineer** dedicated to building resilient and efficient technical ecosystems. 
 
-<br>
+My approach centers on leveraging automation, continuous integration, and cloud-native practices to streamline infrastructure deployment and optimize system performance. 
 
+I excel at diagnosing complex issues, managing containerized environments, and fostering collaborative workflows to ensure operational stability and seamless delivery.
 
-
-<br>
+---
 
 ## 🛠️ Technical Skills
 
-🚀 **DevOps & Automation:** 
-Docker, Kubernetes, Terraform, Ansible, Jenkins, CI/CD Pipelines, ArgoCD
+🚀 **DevOps & Automation:**  
+Docker, Kubernetes, Terraform, Ansible, Jenkins, CI/CD, ArgoCD
 
-☁️ **Cloud & Infrastructure:** 
-AWS (EC2, S3, IAM, CloudFront, EKS), Linux (Ubuntu), Networking, Infrastructure as Code
+☁️ **Cloud & Infrastructure:**  
+AWS (EC2, S3, IAM, CloudFront, EKS), Linux, Networking
 
-📈 **Monitoring & Observability:** 
+📈 **Monitoring:**  
 Prometheus, Grafana
 
-💻 **Programming & Scripting:** 
+💻 **Programming:**  
 Python, C++
 
-🗄️ **Database:** 
+🗄️ **Database:**  
 MySQL
 
-🔧 **Version Control:** 
-Git, GitHub, GitOps Practices
+🔧 **Version Control:**  
+Git, GitHub
 
-<br>
-
-
-
-<br>
+---
 
 <div align="center">
 
@@ -89,13 +77,9 @@ Git, GitHub, GitOps Practices
   <img src="https://skillicons.dev/icons?i=docker" height="55" />
 </a>
 
-<br><br>
-
-**Infrastructure as Code • Cloud Deployment • Continuous Integration & Delivery**
-
 <br>
 
-*"Automating today for a scalable tomorrow"*
+**Infrastructure as Code • Cloud Deployment • Continuous Integration & Delivery**
 
 <br>
 
