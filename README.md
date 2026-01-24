@@ -2,7 +2,7 @@
 
 # Hi, This is **Sagar S H** 👋
 
-### Aspiring DevOps / Cloud Engineer • Electronics & Communication Engineering Graduate
+### Aspiring DevOps / Cloud Engineer 
 
 <img src="https://skillicons.dev/icons?i=linux" height="70" />
 <img src="https://skillicons.dev/icons?i=aws" height="70" />
