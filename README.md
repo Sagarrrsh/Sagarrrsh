@@ -3,10 +3,9 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux,aws,terraform,jenkins,docker,kubernetes,ansible,argo&perline=8" height="70" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="52" />
   <br>
   <img src="https://skillicons.dev/icons?i=python,githubactions,prometheus,grafana,mysql,git,github&perline=8" height="70" />
-  <br>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="28" />
 </div>
 
 ## About Me
