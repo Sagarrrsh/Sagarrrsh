@@ -21,7 +21,7 @@
 </div>
 
 ## About Me
-Aspiring DevOps / Cloud Engineer focused on automation, cloud infrastructure, containerization, and CI/CD workflows. I build hands-on projects that reflect real production practices and scalable deployments.
+**Aspiring DevOps Engineer** with dedicated to building resilient and efficient technical ecosystems. My approach centers on leveraging automation, continuous integration, and cloud-native practices to streamline infrastructure deployment and optimize system performance. I excel at diagnosing complex issues, managing containerized environments, and fostering collaborative workflows to ensure operational stability and seamless delivery.
 
 ## Technical Skills
 🚀 **DevOps & Automation:** Docker, Kubernetes, Terraform, Ansible, Jenkins, CI/CD  
