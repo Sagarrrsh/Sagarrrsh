@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # Hi, This is **Sagar S H** 👋
 
@@ -65,7 +65,7 @@ Git, GitHub, GitOps Practices
 
 <br>
 
----
+
 
 <br>
 
