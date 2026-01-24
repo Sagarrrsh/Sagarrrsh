@@ -1,5 +1,4 @@
 <div align="center">
-
 # Hi, This is **Sagar S H** 👋
 
 ### Aspiring DevOps / Cloud Engineer • Electronics & Communication Engineering Graduate
