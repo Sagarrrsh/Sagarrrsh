@@ -35,12 +35,15 @@ Aspiring DevOps / Cloud Engineer focused on automation, cloud infrastructure, co
   <a href="https://github.com/Sagarrrsh">
     <img src="https://skillicons.dev/icons?i=github" height="55" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/sagar-s-h-212914249">
     <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:sagarsh1003@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="55" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://hub.docker.com/repositories/sagar1003">
     <img src="https://skillicons.dev/icons?i=docker" height="55" />
   </a>
