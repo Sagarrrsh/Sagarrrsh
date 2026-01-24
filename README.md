@@ -2,7 +2,7 @@
 ### Aspiring DevOps / Cloud Engineer • Electronics & Communication Engineering Graduate
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,aws,terraform,jenkins,docker,kubernetes,ansible,argo,cpp&perline=9" height="70" />
+  <img src="https://skillicons.dev/icons?i=linux,aws,terraform,jenkins,docker,kubernetes,ansible,argo,cplusplus&perline=9" height="70" />
   <br>
   <img src="https://skillicons.dev/icons?i=python,githubactions,prometheus,grafana,mysql,git,github&perline=8" height="70" />
 </div>
