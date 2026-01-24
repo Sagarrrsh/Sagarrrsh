@@ -2,17 +2,17 @@
 ### Aspiring DevOps / Cloud Engineer • Electronics & Communication Engineering Graduate
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,aws,terraform,jenkins,docker,kubernetes,ansible,argo&perline=8" height="70" />
+  <img src="https://skillicons.dev/icons?i=linux,aws,terraform,jenkins,docker,kubernetes,ansible&perline=7" height="70" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="52" />
   <br>
-  <img src="https://skillicons.dev/icons?i=python,githubactions,prometheus,grafana,mysql,git,github&perline=8" height="70" />
+  <img src="https://skillicons.dev/icons?i=python,githubactions,prometheus,grafana,mysql,git,github&perline=7" height="70" />
 </div>
 
 ## About Me
 Aspiring DevOps / Cloud Engineer focused on automation, cloud infrastructure, containerization, and CI/CD workflows. I build hands-on projects that reflect real production practices and scalable deployments.
 
 ## Technical Skills
-🚀 **DevOps & Automation:** Docker, Kubernetes, Terraform, Ansible, Jenkins, ArgoCD, CI/CD  
+🚀 **DevOps & Automation:** Docker, Kubernetes, Terraform, Ansible, Jenkins, CI/CD  
 ☁️ **Cloud & Infrastructure:** AWS (EC2, S3, IAM, EKS), Linux, Networking  
 📈 **Monitoring:** Prometheus, Grafana  
 💻 **Programming:** Python, C++  
